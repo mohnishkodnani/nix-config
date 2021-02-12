@@ -83,6 +83,8 @@ in
     ./programs/fish/default.nix
     ./programs/brave/default.nix
     ./programs/git/default.nix
+#    ./programs/ssh/ssh-key.nix
+    ./programs/ssh/default.nix
     alacrittyTerm
 #    kittyTerm
 #    zoom
